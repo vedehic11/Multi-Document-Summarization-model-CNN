@@ -31,8 +31,8 @@ Hardware used: Google Colab with Tesla T4 GPU
 
 ## How to Run
 
+1. Clone the repository
+2. Run the code
 ```bash
 pip install -r requirements.txt
-python models/bart/train_bart.py
-python models/bart/evaluate_bart.py
 
